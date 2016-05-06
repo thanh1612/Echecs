@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1347893835 source:/home/joris/Documents/doctorat/vietnam/STAGE_PROG_SIL/Echecs/Echiquier-etd.cxx
+	<iostream>
+	"Echiquier.h"
+
+1347893835 /home/joris/Documents/doctorat/vietnam/STAGE_PROG_SIL/Echecs/Echiquier.h
+	"Piece.h"
+
+1380548695 /home/joris/Documents/doctorat/vietnam/STAGE_PROG_SIL/Echecs/Piece.h
+
+1380548997 source:/home/joris/Documents/doctorat/vietnam/STAGE_PROG_SIL/Echecs/Piece.cxx
+	"Piece.h"
+	<iostream>
+
+1380548460 source:/home/joris/Documents/doctorat/vietnam/STAGE_PROG_SIL/Echecs/testPiece.cxx
+	<iostream>
+	"Piece.h"
+
